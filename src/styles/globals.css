@@ -1,0 +1,20 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  border: 0 solid #e5e73b;
+}
+html,
+body {
+  margin: 0;
+  line-height: inherit;
+  background: black;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+p {
+  margin: 0;
+  font-size: 1.2rem;
+}
